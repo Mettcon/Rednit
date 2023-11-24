@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1731663764",
+    "project_id": "rednit-f11bb",
+    "storage_bucket": "rednit-f11bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1731663764:android:14eb5a0951af0c8d046181",
+        "android_client_info": {
+          "package_name": "com.example.rednit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0cdnOblvo1ipj1tY2q1fzETXX913_bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
